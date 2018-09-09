@@ -18,7 +18,7 @@ canvas.pack()
 
 fenetre.mainloop()
 
-#D'autre event exite :
+#D'autres events existent :
 #<Button-1>           : Click gauche
 #<Button-2>           : Click milieu 
 #<Button-3>           : Click droit
