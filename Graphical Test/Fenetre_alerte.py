@@ -17,7 +17,7 @@ Button(text='Action', command=callback).pack()
 
 fenetre.mainloop()
 
-#alerte possible
+#alertes possibles
 #showinfo()
 #showwarning()
 #showerror()
