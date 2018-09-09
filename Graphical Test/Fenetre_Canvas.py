@@ -14,7 +14,7 @@ canvas.pack()
 
 fenetre.mainloop()
 
-# D'autre element peuvent être crée ainsi
+# D'autres elements peuvent être crées ainsi
 # create_arc()        :  arc de cercle
 # create_bitmap()     :  bitmap
 # create_image()      :  image
